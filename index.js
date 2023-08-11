@@ -1319,3 +1319,5 @@ const new_arr = arr.map(function(item){
   item.id_card = randomString;
   return item;
 });
+
+console.log(arr);
